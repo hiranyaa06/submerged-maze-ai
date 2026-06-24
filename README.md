@@ -38,12 +38,6 @@ Tech Stack
 * Grid-based UI rendering
 * A* Algorithm for AI logic
 
-▶️ How to Run
-
-1. Clone the repository: git clone https://github.com/your-username/flood-escape-ai.git
-2. Navigate into the project: cd flood-escape-ai
-3. Install dependencies: npm install
-4. Start the application: npm start
 
 #Future Improvements
 * Dynamic flood spreading simulation
@@ -60,7 +54,7 @@ Tech Stack
 
 Author
 
-Hiranyaa AI & Cloud Computing Enthusiast
+Hiranyaa Vignesh
 
 Support
 
